@@ -1,2 +1,4 @@
 # Raspberry-PySlots
-This is a fork of the Bfruit slot machine python program with amenities for the Raspberry Pi and LED control functionality
+This is a fork of the Bfruit slot machine python program with amenities for the Raspberry Pi and LED control functionality. Bfruit (https://sourceforge.net/projects/bfruit/) was written by Balázs Nagy (https://sourceforge.net/u/nxbalazs/profile/) and Ferenc Nagy (https://sourceforge.net/u/nferenc/profile/). Bfruit was originally licensed under the GNU General Public License version 2.0 (GPLv2) (https://sourceforge.net/directory/license:gpl/). I have updated this license to GPL 3.0  to include my changes. Bfruit was originally posted on SourceForge, and not GitHub, that is why I call this a fork, but it is not listed as such. 
+
+The project series that contains more info on my contribution to this project can be found at https://www.element14.com/community/community/raspberry-pi/raspberrypi_projects/blog/2016/09/29/raspberry-pyslots-the-costume-introduction
